@@ -1,0 +1,18 @@
+{
+    "name": "result",
+    "tree": {
+        "$className": "DataModel",
+        "Players": {
+            "$className": "Players",
+            "$properties": {
+                "CharacterAutoLoads": false
+            }
+        },
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "Result": {
+                "$path": "lib"
+            }
+        }
+    }
+}
